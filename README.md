@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaysonere
 - 👀 I’m interested in  web development..
-- 🌱 I’m currently learning front-end web ..
+- 🌱 I’m currently learning full stack web development ..
 - 💞️ I’m looking to collaborate on web projects..
 - 📫 How to reach me ajaysonere786@gmail.com
 
