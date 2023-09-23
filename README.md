@@ -1,5 +1,23 @@
 
-<h1 align="center">Hi 👋, I'm Ajay Sonere</h1><br><h3 align="center">A passionate full stack developer from India</h3><br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysonere&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysonere" /> </p><br><br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysonere" alt="ajaysonere" /></a> </p><br><br>- 🔭 I’m currently working on **Data Structure and algorithms**<br><br>- 🌱 I’m currently grinding Full stack developer<br><br>- 👯 I’m looking to collaborate on Web development<br><br>- 💬 Ask me about Mern Stack and data structure<br><br>- 📫 How to reach me [ajaysonere786@gmail.com](ajaysonere786@gmail.com)<br><br>- 📄 Know about my experiences [Download Resume ](https://drive.google.com/file/d/1SOtP0IoxWl4E8iaUSRuHvJBol8b9HDhp/view?usp=sharing)
+<h1 align="center">Hi 👋, I'm Ajay Sonere</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysonere&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysonere" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysonere" alt="ajaysonere" /></a> </p>
+
+- 🔭 I’m currently working on **Data Structure and algorithms**
+
+- 🌱 I’m currently grinding Full stack developer
+
+- 👯 I’m looking to collaborate on Web development
+
+- 💬 Ask me about Mern Stack and data structure
+
+- 📫 How to reach me [ajaysonere786@gmail.com](ajaysonere786@gmail.com)
+
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1SOtP0IoxWl4E8iaUSRuHvJBol8b9HDhp/view?usp=sharing)
+
 
 
 ## 🌐 Socials:
