@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ajaysonere786@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SOtP0IoxWl4E8iaUSRuHvJBol8b9HDhp/view?usp=sharing](https://drive.google.com/file/d/1SOtP0IoxWl4E8iaUSRuHvJBol8b9HDhp/view?usp=sharing)
+- 📄 Know about my experiences [see resume](https://drive.google.com/file/d/1SOtP0IoxWl4E8iaUSRuHvJBol8b9HDhp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
