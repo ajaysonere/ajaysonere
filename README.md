@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently grinding Full stack developer
 
-- 👯 I’m looking to collaborate on Web development
+- 👯 I’m looking to collaborate on Web development project and Internship .
 
 - 💬 Ask me about Mern Stack and data structure
 
